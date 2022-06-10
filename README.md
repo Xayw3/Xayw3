@@ -15,3 +15,6 @@ I am Frontend Developer.
 [<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" ang="AngularJS logo" width="40" length="40" />](https://angular.io/docs)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" ang="TypeScript logo" width="40" length="40" />](https://www.typescriptlang.org/docs/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" ang="VueJS logo" width="40" length="40" />](https://vuejs.org/guide/introduction.html)
+
+
+My LinkedIn Profile : https://www.linkedin.com/in/edgars-kapilinskis/
