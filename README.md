@@ -17,4 +17,6 @@ I am Frontend Developer.
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" ang="VueJS logo" width="40" length="40" />](https://vuejs.org/guide/introduction.html)
 
 
-My LinkedIn Profile : https://www.linkedin.com/in/edgars-kapilinskis/
+#
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ang="Linkedin logo" width="20" length="20" /> You can connect with me on [Linkedin]([https://www.linkedin.com/in/māris-dirvēns](https://www.linkedin.com/in/edgars-kapilinskis/)).   
+<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" ang="Gmail logo" width="20" length="20" /> Send some email: xaywe1@gmail.com.
