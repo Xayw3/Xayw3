@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Edgars Kapilinskis
 
-I am Frontend Developer.
+Passionate front-end developer, skilled in JavaScript, TypeScript, HTML, CSS, React, Angular and VueJs.
+Constantly improve my programming skills.
 
 
 #
