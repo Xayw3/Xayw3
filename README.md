@@ -18,5 +18,5 @@ I am Frontend Developer.
 
 
 #
-<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ang="Linkedin logo" width="20" length="20" /> You can connect with me on [Linkedin]([https://www.linkedin.com/in/edgars-kapilinskis](https://www.linkedin.com/in/edgars-kapilinskis)).   
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ang="Linkedin logo" width="20" length="20" /> You can connect with me on [Linkedin]([https://www.linkedin.com/in/edgars-kapilinskis](https://www.linkedin.com/in/edgars-kapilinskis)). https://www.linkedin.com/in/edgars-kapilinskis  
 <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" ang="Gmail logo" width="20" length="20" /> Send some email: xaywe1@gmail.com.
